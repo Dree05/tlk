@@ -2,11 +2,11 @@
 nilai = float(input("Masukkan nilai Anda: "))
 
 # Logika penentuan nilai huruf
-if nilai >= 85:
+if nilai >= 81:
     nilai_huruf = 'A'
-elif nilai >= 75:
+elif nilai >= 76:
     nilai_huruf = 'B'
-elif nilai >= 65:
+elif nilai >= 66:
     nilai_huruf = 'C'
 elif nilai >= 55:
     nilai_huruf = 'D'
